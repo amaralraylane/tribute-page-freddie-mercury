@@ -1,0 +1,51 @@
+#title
+{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+p {
+   text-align: justify;
+   text-justify: inter-word;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+figcaption {
+  display: block;
+  text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+h4 {
+  text-align: center;
+}
+
+.ref {
+  text-align: center;
+}
+
+body {
+  background-color: #ebecf1;
+}
